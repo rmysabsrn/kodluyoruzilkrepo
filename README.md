@@ -25,4 +25,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 [MIT](https://choosealicense.com/licenses/mit/)
 
 -------------------------------------------------------
+[Patika](https://app.patika.dev/rmysabsrn)
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
