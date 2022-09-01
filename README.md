@@ -12,7 +12,7 @@ git clone https://github.com/rmysabsrn/kodluyoruzilkrepo.git
 # **Usage**
 Projeyi clonladıktan sonra Visual Studio Code programında açınız.
 
-Linuz için :
+Linux için :
 
 cd kodluyoruzilkrepo
 
